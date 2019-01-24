@@ -1,7 +1,7 @@
 # Musik-Video
 Downlod Musik &amp; Video ( Dengar lagu
 
-**Vide*
+**Video**
 
 https://github.com/BuatApkOlshop/Musik-Video.git
 
